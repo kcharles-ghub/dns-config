@@ -6,8 +6,6 @@
 
 <p>This lab demonstrates DNS functionality by testing A-record creation, local DNS cache behavior, and CNAME records within a domain environment. We will perform specific tests on DNS resolution, cache management, and aliasing using CNAME records.</p>
 
-<h2>Kadeem Charles - Portfolio Project</h2>
-
 <h2>Technologies and Environments Used</h2>
  <ul>
    <li><strong>Microsoft Azure:</strong> Used to host the virtual machines (DC-1 and Client-1).</li>
